@@ -11,7 +11,7 @@ La séance de 7h30 couvre :
 
 (cela correspond aux chapitre 2 à 5 du Manuel Python pour les SHS)
 
-Les documents dans le dépôt correspondent à la formation (mis à jour à la fin)
+Les documents dans le dépôt correspondent à la formation (mis à jour à la fin), en particulier les supports montrés et les notebooks associés.
 
 Pour toute question suite à la formation, ne pas hésiter à contacter emilien.schultz[at]ird.fr
 
